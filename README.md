@@ -56,10 +56,6 @@ Here is an example of the process:
 
 Feel free to fork this project, make enhancements, and submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Enjoy working with image skeletonization! If you have any questions or feedback, please open an issue or reach out.
