@@ -50,7 +50,7 @@ The project successfully simplifies complex images to single-pixel skeletons. Th
 
 Here is an example of the process:
 
-![Original and Skeleton Images](skeleton_example.png)
+![Original and Skeleton Images]( https://github.com/Hardikverma700/thinningAlgorithm/blob/main/Screenshot%20(265).png )
 
 ## Contributing
 
